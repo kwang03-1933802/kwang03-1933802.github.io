@@ -1,0 +1,48 @@
+
+#font1{
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+}
+
+#font2{
+    font-family:"Lucida Console", "Courier New", monospace;
+    
+}
+
+#Killua{
+    height:50px;
+    width:50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#Gon{
+    height:50px;
+    width:50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.wrap {
+    width: 1060px;
+    height:auto;
+    margin: auto;
+    text-align:center;
+    position:relative;
+}
+.text_over_image {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+}
+
+#Gon2{
+    margin:20px;
+}
+
+#dotted{
+    border:dotted 1px black
+}
+
