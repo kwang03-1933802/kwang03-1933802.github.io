@@ -54,6 +54,9 @@ p{
     font-weight: bold;
     color:white;
     font-family: "Arial";
+    direction:rtl;
+    text-transform: uppercase;
+    line-height:2;
 }
 
 h3{
@@ -61,6 +64,8 @@ h3{
     font-size: 40px;
     font-family: "Passion One";
     margin-bottom: 0px;
+    text-decoration: overline;
+    letter-spacing:5px;
 }
 
 div{
